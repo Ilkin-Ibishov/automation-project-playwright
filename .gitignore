@@ -8,6 +8,7 @@ __pycache__/
 .Python
 *.egg-info/
 *.egg
+.md
 
 # =====================================================
 # Virtual Environment
